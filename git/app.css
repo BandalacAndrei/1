@@ -1,0 +1,19 @@
+   .group {
+       color: red;
+       border: 1px solid green;
+    }
+   #special-tag{
+       background-color:blue ;
+   }
+.top-parent div {
+    border: 4px dotted ;
+color: orange;
+height: 50px;
+width: 10em;
+}
+.bottom-parent div{
+    border: dashed;
+    color: violet;
+    width:100px ;
+    height: 4rem;
+}
